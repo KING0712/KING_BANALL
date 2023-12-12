@@ -7,7 +7,7 @@
 
 
 
-## DEKH BHAI NICHE HEROKU KA BUTTAN DIYA HAI VAHA SE GAND FAAD BAN ALL BOT DEPLOY KARLE
+## OY KAHA DEKH RAHA HAI NICHE DEPLOY KA BUTTAN HAI...
 
 
 [![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING0712/KING_BANALL)
