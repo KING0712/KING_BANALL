@@ -2,7 +2,7 @@
 GAAND FAAD BAN ALL ,FOR WORE QUERIES CHECK OUT MY REPOSITORY
 <h1 align="center"> 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗬 𝗞𝗜𝗡𝗚 </h1>
 
-<p align="center"><a <img> src="https://te.legra.ph/file/84e5452b231d4826fcf25.jpg" 
+<p align="center"><a <img>src="https://te.legra.ph/file/84e5452b231d4826fcf25.jpg" 
 
 
 # ʙᴀɴ ᴀʟʟ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇs!!!
