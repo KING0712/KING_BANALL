@@ -13,5 +13,13 @@
 [![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING0712/KING_BANALL)
 
 
+## TELEGRAM / ID
+
+<p align="center">𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 / 𝐈𝐃 ----> </p>
+
+<p align="center"><a href="https://t.me/l_MR_ll_KING_l"><img src="https://img.shields.io/badge/TELEGRAM ID-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+
+
+
 
 
