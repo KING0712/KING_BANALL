@@ -1,6 +1,6 @@
 # KING BAN ALL
 GAAND FAAD BAN ALL ,FOR WORE QUERIES CHECK OUT MY REPOSITORY
-<h1 align="center"> 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗬 𝗞𝗜𝗡𝗚 </h1>
+<h1 align="center"> 𝗚𝗔𝗡𝗗 𝗙𝗔𝗔𝗗 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗬 𝗞𝗜𝗡𝗚 </h1>
 
  
 
