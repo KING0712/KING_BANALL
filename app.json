@@ -1,22 +1,22 @@
 {
-    "name": "ʙᴀɴ ᴀʟʟ",
+    "name": "KING BAN ALL",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://te.legra.ph/file/50131d5f2ff665829effe.jpg",
-    "keywords": ["WEEDLEAF", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/gamingbuddyyy/BANALL",
+    "logo": "https://telegra.ph/file/64e4440d641998b4d9749.jpg",
+    "keywords": ["KING", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/KING0712/KING_BANALL",
   "stack": "container",
     "env": {
         "BOT_TOKEN": {
-            "description": "ɢᴇᴛ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @ʙᴏᴛғᴀᴛʜᴇʀ ɪɴ ᴛɢ",
+            "description": "YAHA BOT TOKAN DAAL MADARCHOD",
             "required": true
         },
         "API_HASH": {
-            "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʀɪᴀʙʟᴇ ғʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ",
+            "description": "YAHA API HASH DAAL CHUTIYE",
             "required": true,
             "value": ""
         },
         "API_ID": {
-            "description": "ғɪʟʟ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ",
+            "description": "APNI ID NHI API ID DALNA BSDK",
             "required": true,
             "value": ""
         }
