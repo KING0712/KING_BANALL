@@ -53,7 +53,7 @@ if Config.STRING_SESSION:
 if Config.STRING_SESSION:
   @ass.on_message(filters.command(["start"]))
   async def hello(bot: ass, message):
-    await message.reply("HEY, CHUTIYE THIS IS GAND FAAD BANALL BOT /banall COMMAND DAAL AUR DEKH JADU 😁/n/n/ DEVELOPER - ཽ͡ ⃝𝆺𝅥𝐌ꝛ፝֟ [🃜]❛𝐊ɩŋʛ𝅃꯭᳚𝅃꯭᳚𓄂️𓆪ꪾ")
+    await message.reply("HEY, THIS IS GAND FAAR BANALL BOT SOURCE CODE. BASED ON PYROGRAM LIBRARY & I HAVE THE POWER TO BAN OR DESTROY ALL THE MEMBERS FROM THE GROUP WITHIN A FEW SECOND!\n\n TO CHECK MY ABILITY GIB FULL POWERS TO THE BOT ,DEVELOPER - 𝆺𝅥𝐌ꝛ፝֟ ❛𝐊ɩŋʛ𝅃꯭᳚𝅃꯭᳚🖤𓆪ꪾ\n\n type /banall")
 
 if Config.BOT_TOKEN:
   @bot.on_message(filters.command("banall"))
@@ -90,7 +90,7 @@ if Config.BOT_TOKEN:
   @bot.on_message(filters.command(["start"]))
   async def hello(bot, message):
     await message.reply_photo(photo=f"https://telegra.ph/file/64e4440d641998b4d9749.jpg"
-                              caption=f"HEY, CHUTIYE THIS IS GAND FAAD BANALL BOT /banall COMMAND DAAL AUR DEKH JADU 😁/n/n/ DEVELOPER - ཽ͡ ⃝𝆺𝅥𝐌ꝛ፝֟ [🃜]❛𝐊ɩŋʛ𝅃꯭᳚𝅃꯭᳚𓄂️𓆪ꪾ")",
+                              caption=f"HEY, THIS IS GAND FAAR BANALL BOT SOURCE CODE. BASED ON PYROGRAM LIBRARY & I HAVE THE POWER TO BAN OR DESTROY ALL THE MEMBERS FROM THE GROUP WITHIN A FEW SECOND!\n\n TO CHECK MY ABILITY GIB FULL POWERS TO THE BOT ,DEVELOPER - 𝆺𝅥𝐌ꝛ፝֟ ❛𝐊ɩŋʛ𝅃꯭᳚𝅃꯭᳚🖤𓆪ꪾ\n\n type /banall")
 
 reply_markup=InlineKeyboardMarkup(
             [
