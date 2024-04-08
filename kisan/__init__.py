@@ -89,14 +89,14 @@ if Config.BOT_TOKEN:
 if Config.BOT_TOKEN:
   @bot.on_message(filters.command(["start"]))
   async def hello(bot, message):
-    await message.reply_photo(photo=f"https://te.legra.ph/file/84e5452b231d4826fcf25.jpg",
-                              caption=f"HEY, ᴛʜɪs ɪs GAND FAAR BANALL BOT SOURCE CODE. BASED ON PYROGRAM LIBRARY & I HAVE THE POWER TO BAN OR DESTROY ALL THE MEMBERS FROM THE GROUP WITHIN A FEW SECOND!\n\n TO CHECK MY ABILITY GIB FULL POWERS TO THE BOT ,DEVELOPER - ϻͣ  ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆\n\n type /banall to see magic",
+    await message.reply_photo(photo=f"https://telegra.ph/file/16714b3f5aeefa562e475.jpg",
+                              caption=f"HEY, ᴛʜɪs ɪs GAND FAAR BANALL BOT SOURCE CODE. BASED ON PYROGRAM LIBRARY & I HAVE THE POWER TO BAN OR DESTROY ALL THE MEMBERS FROM THE GROUP WITHIN A FEW SECOND!\n\n TO CHECK MY ABILITY GIB FULL POWERS TO THE BOT ,DEVELOPER - 𝐓𝛔⃔͢xɪ𝙲͢\n\n type /banall to see magic",
 
 reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "★ᴅᴇᴠᴇʟᴏᴘᴇʀ★", url=f"https://t.me/gamingggggg3")
+                        "👿 𝐃𝐄𝐕𝐋𝐎𝐏𝐄𝐑 👿", url=f"https://t.me/lxl_TOXIC_lxl")
                 ]
                 
            ]
