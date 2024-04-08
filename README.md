@@ -1,6 +1,6 @@
 # 𝐁𝐀𝐍𝐀𝐋𝐋
 GAAND FAAD BANALL ,FOR WORE QUERIES CHECK OUT MY REPOSITORY
-<h1 align="center"> 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗬 𝐓𝛔⃔͢xɪ𝙲͢ </h1>
+<h1 align="center"> BAN ALL BY TOXIC </h1>
 
 <p align="center"><a href="https://t.me/lxl_TOXIC_lxl"><img src="https://telegra.ph/file/16714b3f5aeefa562e475.jpg" width="400"></a></p>
 
